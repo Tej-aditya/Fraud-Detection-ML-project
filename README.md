@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Fraud Detection SaaS - Setup Instructions
 
 ## Prerequisites
